@@ -1,7 +1,7 @@
 # st
 st build based on [Luke Smith's](https://github.com/LukeSmithxyz/st).
 
-Dark tango theme is using.
+Dark tango theme is used.
 
 Xresources were deleted due to a theme bug on my machine.
 
